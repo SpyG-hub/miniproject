@@ -3,3 +3,6 @@ This is my first web development. This project is a simple choice game that has 
 
 The link to my repl project is: https://arcade.spygamingcd.repl.co/index.html
 
+![Screenshot1](Screenshot1.jpg)
+![Screenshot2](Screenshot2.jpg)
+![Screenshot3](Screenshot3.jpg)
